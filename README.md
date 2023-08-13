@@ -9,6 +9,7 @@
 - For front-end magic ✨, I turn to Vue.js to create captivating user interfaces.
 - 🎨 And when it comes to bridging the mobile world, I embrace Flutter 📱 to develop cutting-edge hybrid applications.
 <br>
+<hr>
 <p align='center'>🌐 Let's code the future together! 💻🌟</p>
 
 <h3 align="left">Connect with me:</h3>
