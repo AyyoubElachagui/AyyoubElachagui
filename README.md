@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayyoub El Achagui</h1>
 <h3 align="center">A passionate full-stack developer 🚀 with a knack for crafting seamless web experiences</h3>
 
-- 🎆 I’m currently working on **VodinIt**
+- 🎆 I’m currently working on **SWI DIGITAL DEV**
 
 <hr>
 
